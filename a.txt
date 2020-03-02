@@ -1,2 +1,2 @@
 123
-print(¡°aa¡±)
+print("aa")
